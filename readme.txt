@@ -1,5 +1,5 @@
 StudentId :1913110092
 StudentName : Nattapol Kongthong
-Study : Basic Github
-ClassTopic : Basic Github
-Date : 6/17/2023
+Study : Java Script
+ClassTopic : Java Script
+Date : 6/24/2023
